@@ -6,3 +6,5 @@ Develop an AI player for a modified version of the Saboteur board game.
 Contributors:
   Daniel Van Acker
   Paloma Fernandez-Mc Auley
+  
+Base Code made by PierreOrhan
