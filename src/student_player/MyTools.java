@@ -37,7 +37,7 @@ public class MyTools {
     public static ArrayList<Point> checkGold(SaboteurTile[][] tileBoard) {
     	ArrayList<Point> gold = new ArrayList<>();
     	for(int i = 0; i < 3; i++) {
-    		int x = 12*3;
+    		int x = 1+(12*3);
     		int y = ((3+(i*2))*3)+1;
     		String idx = tileBoard[12][3+(i*2)].getIdx();
         	if(idx.equals("nugget")) {
